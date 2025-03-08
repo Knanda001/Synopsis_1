@@ -68,7 +68,7 @@ LIME is used to explain the model's predictions by showing the most influential 
 - The results are displayed as text and a visual plot.
 
 ## Author
-Hitesh Matharu
+Kashish Nanda
 
 ## Acknowledgments
 Special thanks to the open-source community for providing valuable tools and frameworks like Streamlit, XGBoost, and LIME.
